@@ -9,6 +9,7 @@ Requirements:
 - NumPy
 - SciPy
 - Bokeh
+- Jupyter
 
 -----
 
